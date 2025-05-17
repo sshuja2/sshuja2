@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sshuja2
+- 👋 Hi, I’m Shujauddin Shuja
 - 👀 I’m interested in networking
 - 🌱 I’m currently preparing for my CCIE
-- 💞️ I’m looking to collaborate on network programibility and automation
+- 💞️ I’m looking to collaborate on network programmability and automation
 - 📫 How to reach me through shuja.media@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't believe in impossible
